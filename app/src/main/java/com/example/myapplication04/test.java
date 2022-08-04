@@ -16,6 +16,6 @@ public class test {
         System.out.println("myBranch test");
         System.out.println("这是在分支myBranch中修改的内容");
         
-        SYstem.out.println("在github上面修改的内容");
+        System.out.println("在github上面修改的内容");
     }
 }
