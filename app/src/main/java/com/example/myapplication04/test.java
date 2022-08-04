@@ -11,5 +11,6 @@ public class test {
         System.out.println("这个是测试的方法");
         System.out.println("这个是测试的方法");
         System.out.println("这个是测试的方法");
+        System.out.println("hello");
     }
 }
